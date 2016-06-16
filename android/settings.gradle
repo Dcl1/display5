@@ -1,0 +1,3 @@
+rootProject.name = 'Display5'
+
+include ':app'
